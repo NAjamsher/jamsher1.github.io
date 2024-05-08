@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:59197/posts/about/</loc>
+    <lastmod>2024-05-08T15:04:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:59197/posts/contact/</loc>
+    <lastmod>2024-05-08T15:04:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:59197/</loc>
+    <lastmod>2024-05-08T15:04:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:59197/posts/</loc>
+    <lastmod>2024-05-08T15:04:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:59197/posts/projects/</loc>
+    <lastmod>2024-05-08T15:04:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:59197/categories/</loc>
+  </url><url>
+    <loc>http://localhost:59197/tags/</loc>
+  </url>
+</urlset>

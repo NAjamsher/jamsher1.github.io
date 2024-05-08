@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jamsher portfolio</title>
+    <link>http://localhost:59197/</link>
+    <description>Recent content on Jamsher portfolio</description>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 15:04:15 +0530</lastBuildDate>
+    <atom:link href="http://localhost:59197/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:59197/posts/about/</link>
+      <pubDate>Wed, 08 May 2024 15:04:15 +0530</pubDate>
+      <guid>http://localhost:59197/posts/about/</guid>
+      <description>I’m Jamsher, a passionate individual with a BSc in Computer Science, eager to explore the dynamic realm of data science. With a natural inclination towards analytical thinking, I thrive on uncovering patterns and insights within vast datasets. My academic journey has equipped me with a solid foundation in technology and programming, laying the groundwork for my venture into data-driven exploration. As I delve deeper into the world of data science, each project becomes a canvas for innovation and problem-solving, where I blend theoretical knowledge with practical skills to create impactful solutions.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:59197/posts/contact/</link>
+      <pubDate>Wed, 08 May 2024 15:04:15 +0530</pubDate>
+      <guid>http://localhost:59197/posts/contact/</guid>
+      <description>Welcome to my data science journey! Whether you&amp;rsquo;re eager to collaborate on projects, have questions about data science, or simply want to connect and explore opportunities, I&amp;rsquo;m here for you. Feel free to reach out, and together, let&amp;rsquo;s transform ideas into actionable insights and unlock the full potential of data!
+&amp;ldquo;Get in Touch and Let&amp;rsquo;s Transform Data Together!&amp;rdquo;
+Contact number: 9150668782
+Mail Id: &amp;ldquo;jamsher6623@gmail.com&amp;rdquo;
+Instagram: &amp;ldquo;https://www.instagram.com/invites/contact/?i=oina2id00x07&amp;amp;utm_content=i4l4cfi&amp;quot;
+Github:&amp;ldquo;https://github.com/NAjamsher&amp;quot;</description>
+    </item>
+    <item>
+      <title>projects</title>
+      <link>http://localhost:59197/posts/projects/</link>
+      <pubDate>Wed, 08 May 2024 15:04:15 +0530</pubDate>
+      <guid>http://localhost:59197/posts/projects/</guid>
+      <description>project 1 Interactive Car Fuel Efficiency Visualization
+This project is an interactive data visualization that explores the relationship between car origin and fuel efficiency, measured in miles per gallon (MPG). The visualization utilizes the Altair library in Python, along with data from the Vega datasets. The main component of the visualization is a bar chart that displays the average MPG for cars from different origins (e.g., USA, Europe, Japan). The bars are color-coded based on user interaction through a brushing selection mechanism.</description>
+    </item>
+  </channel>
+</rss>
