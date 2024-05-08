@@ -2,7 +2,7 @@
 title = 'projects'
 date = 2024-05-08T15:04:15+05:30
 
-draft = true
+
 +++
 
 **project 1**
